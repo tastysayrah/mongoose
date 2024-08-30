@@ -1,0 +1,39 @@
+[
+
+    {
+
+        "account_id": "MDB829001337",
+
+        "account_type": "checking",
+
+        "amount": 500,
+
+        "date": "2024-08-14T10:00:00Z"
+
+    },
+
+    {
+
+        "account_id": "MDB829001338",
+
+        "account_type": "savings",
+
+        "amount": 1500,
+
+        "date": "2024-08-14T12:00:00Z"
+
+    },
+
+    {
+
+        "account_id": "MDB829001337",
+
+        "account_type": "checking",
+
+        "amount": 200,
+
+        "date": "2024-08-14T14:00:00Z"
+
+    }
+
+]
